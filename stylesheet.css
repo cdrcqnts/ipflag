@@ -1,0 +1,24 @@
+.ipflag-label {
+  font-size: 1.1em;
+}
+
+.ipflag-tooltip {
+  background-color: rgba(30, 30, 30, 0.95);
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 10px 14px;
+  spacing: 14px;
+}
+
+.ipflag-tooltip-keys,
+.ipflag-tooltip-values {
+  spacing: 4px;
+}
+
+.ipflag-tooltip-key {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.ipflag-tooltip-value {
+  font-weight: bold;
+}

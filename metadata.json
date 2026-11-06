@@ -1,0 +1,8 @@
+{
+  "uuid": "ipflag@cdrcqnts.github.io",
+  "name": "IP Flag",
+  "description": "Top-bar flag of your public IP's country, details on hover (via ipleak.net).",
+  "shell-version": ["50"],
+  "url": "https://github.com/cdrcqnts/ipflag",
+  "version-name": "1.0"
+}
